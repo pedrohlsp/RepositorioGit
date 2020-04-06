@@ -2,3 +2,4 @@ Coruscant
 Endor
 Saturno
 Marte
+Terra
