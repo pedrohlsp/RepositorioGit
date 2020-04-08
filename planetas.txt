@@ -5,3 +5,4 @@ Marte
 Terra
 Jupter
 Venus
+Mercúrio
