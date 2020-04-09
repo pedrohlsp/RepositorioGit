@@ -7,3 +7,4 @@ Jupter
 Venus
 Mercúrio
 Plutão
+Urânio
