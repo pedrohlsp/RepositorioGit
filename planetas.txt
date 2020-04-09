@@ -6,3 +6,4 @@ Terra
 Jupter
 Venus
 Mercúrio
+Plutão
